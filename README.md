@@ -1,8 +1,40 @@
-# React + Vite
+# Brainwave 
+### React Landing Page for AI App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React frontend application for a landing page promoting an AI application. It's designed to be similar to the landing page of ChatGPT.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clean and modern design based on the Brainwave UI Kit by UI8 (https://ui8.net/ui8/products/brainwave-ai-ui-design-kit)
+Fully responsive layout for optimal viewing on all devices
+Pre-built sections for showcasing features, benefits, and testimonials (content not included)
+Easy customization with Tailwind CSS
+
+## Technologies Used
+React
+Vite
+Node.js
+Tailwind CSS
+
+## Setup
+
+Clone this repository:
+
+Bash
+`git clone https://github.com/saakshikobarne/brainwave.git`
+Use code with caution.
+Install dependencies:
+
+Bash
+`cd brainwave
+npm install`
+Use code with caution.
+
+Development
+Start the development server:
+
+Bash
+`npm run dev`
+Use code with caution.
+
+This will launch the application in your web browser, typically at http://localhost:5173/.
