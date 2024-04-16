@@ -12,7 +12,7 @@ function Header() {
 
     const pathName= useLocation();
 
-    const [openNavigation, setOpenNavigation] = useState(false);
+    const [openNavigation, setOpenNavigation] = useState(false);               
 
     const togglenavigation =()=>{
         if(openNavigation){
