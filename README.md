@@ -16,6 +16,15 @@ This project is a React frontend application for a landing page promoting an AI 
 * Node.js
 * Tailwind CSS
 
+## Demo
+
+
+
+## Live Demo
+
+Site is live at:
+`https://aibrainwave.netlify.app/`
+
 ## Setup
 
 Clone this repository:
