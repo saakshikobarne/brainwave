@@ -5,36 +5,41 @@ This project is a React frontend application for a landing page promoting an AI 
 
 ## Features
 
-Clean and modern design based on the Brainwave UI Kit by UI8 (https://ui8.net/ui8/products/brainwave-ai-ui-design-kit)
-Fully responsive layout for optimal viewing on all devices
-Pre-built sections for showcasing features, benefits, and testimonials (content not included)
-Easy customization with Tailwind CSS
+* Clean and modern design based on the Brainwave UI Kit by UI8 (https://ui8.net/ui8/products/brainwave-ai-ui-design-kit)
+* Fully responsive layout for optimal viewing on all devices
+* Pre-built sections for showcasing features, benefits, and testimonials (content not included)
+* Easy customization with Tailwind CSS
 
 ## Technologies Used
-React
-Vite
-Node.js
-Tailwind CSS
+* React
+* Vite
+* Node.js
+* Tailwind CSS
 
 ## Setup
 
 Clone this repository:
 
-Bash
-`git clone https://github.com/saakshikobarne/brainwave.git`
+```bash
+git clone https://github.com/saakshikobarne/brainwave.git
+```
 Use code with caution.
+
 Install dependencies:
 
-Bash
-`cd brainwave
-npm install`
+```bash
+cd brainwave
+npm install
+```
 Use code with caution.
 
-Development
+### Development
+
 Start the development server:
 
-Bash
-`npm run dev`
+```bash
+npm run dev
+```
 Use code with caution.
 
 This will launch the application in your web browser, typically at http://localhost:5173/.
